@@ -13,7 +13,8 @@ email  nzsowqh889@gmail.com
 last_checkin  2026-01-01 12:36:42.540066+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.72G  2026-01-03 13:36:42+08:00  (剩余 1.72G 1 day, 22:37:10.460070)
+sub_info  0B  1.72G  2026-01-03 13:36:42+08:00  (剩余 1.72G 1 day, 21:48:10.262642)
 sub_url  https://aa.mgnet.sbs/link/q70JYSsk7kUJZe4v?sub=3
 time  2026-01-01 12:36:42.965468+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
