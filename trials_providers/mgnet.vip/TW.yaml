@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: 1a22303c-d1e8-397e-8b72-f7ebe5d90735, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
