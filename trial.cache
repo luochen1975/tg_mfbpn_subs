@@ -9,11 +9,12 @@
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  lihooob863@gmail.com
-last_checkin  2026-01-11 14:57:51.116926+08:00
+email  exaomjon764@gmail.com
+last_checkin  2026-01-11 19:45:48.781382+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.618G  2026-01-13 15:57:50+08:00  (剩余 1.618G 1 day, 21:07:32.353879)
-sub_url  https://aa.mgnet.sbs/link/vwH7gCi8BmmbrpBA?sub=3
-time  2026-01-11 14:57:51.586609+08:00
+sub_info  0B  1.556G  2026-01-13 20:45:48+08:00  (剩余 1.556G 2 days, 0:59:56.309631)
+sub_url  https://aa.mgnet.sbs/link/eNTXk8iH7Zox3yiY?sub=3
+time  2026-01-11 19:45:49.091525+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
