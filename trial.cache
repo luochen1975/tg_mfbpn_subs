@@ -13,7 +13,8 @@ email  vmiceeloy737@gmail.com
 last_checkin  2026-01-13 02:59:58.649604+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.587G  2026-01-15 03:59:58+08:00  (剩余 1.587G 1 day, 23:07:33.298436)
+sub_info  0B  1.587G  2026-01-15 03:59:58+08:00  (剩余 1.587G 1 day, 22:10:33.249132)
 sub_url  https://aa.mgnet.sbs/link/VHkfPo6702MGk04H?sub=3
 time  2026-01-13 02:59:58.962317+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
