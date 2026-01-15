@@ -13,7 +13,8 @@ email  iclalzxof751@gmail.com
 last_checkin  2026-01-15 07:47:20.660182+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.771G  2026-01-17 08:47:20+08:00  (剩余 1.771G 2 days, 0:59:51.499279)
+sub_info  0B  1.771G  2026-01-17 08:47:20+08:00  (剩余 1.771G 1 day, 22:13:12.620994)
 sub_url  https://aa.mgnet.sbs/link/VkiWWUjTOw1BZqre?sub=3
 time  2026-01-15 07:47:21.064063+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
