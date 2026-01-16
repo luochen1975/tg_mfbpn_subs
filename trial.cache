@@ -13,8 +13,7 @@ email  cnwpvow731@gmail.com
 last_checkin  2026-01-16 15:00:07.214724+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.612G  2026-01-18 16:00:06+08:00  (剩余 1.612G 2 days, 0:10:16.976492)
+sub_info  0B  1.612G  2026-01-18 16:00:06+08:00  (剩余 1.612G 1 day, 23:02:10.428425)
 sub_url  https://aa.mgnet.sbs/link/wNn00ikPBOcEzP1V?sub=3
 time  2026-01-16 15:00:07.614990+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
