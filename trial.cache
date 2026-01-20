@@ -13,7 +13,8 @@ email  lneoadil278@gmail.com
 last_checkin  2026-01-20 18:58:15.239759+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.942G  2026-01-22 19:58:14+08:00  (剩余 1.942G 1 day, 21:53:26.786605)
+sub_info  0B  1.942G  2026-01-22 19:58:14+08:00  (剩余 1.942G 1 day, 20:57:10.888906)
 sub_url  https://aa.mgnet.sbs/link/TziTVt6mchM7b1tY?sub=3
 time  2026-01-20 18:58:15.672626+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
