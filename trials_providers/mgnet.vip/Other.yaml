@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: c2064d6a-b5fb-334b-b9ec-657860d7e95f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: c2064d6a-b5fb-334b-b9ec-657860d7e95f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: c2064d6a-b5fb-334b-b9ec-657860d7e95f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: c75dac47-c140-34f7-bac2-ac28aeb874e4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: c75dac47-c140-34f7-bac2-ac28aeb874e4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: c75dac47-c140-34f7-bac2-ac28aeb874e4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
