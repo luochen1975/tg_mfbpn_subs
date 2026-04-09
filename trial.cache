@@ -13,7 +13,8 @@ email  gieqlvsuz623@gmail.com
 last_checkin  2026-04-10 05:27:35.384551+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.495G  2026-04-12 06:27:35+08:00  (剩余 1.495G 2 days, 0:04:38.122248)
+sub_info  0B  1.495G  2026-04-12 06:27:35+08:00  (剩余 1.495G 1 day, 23:04:13.631228)
 sub_url  https://az.mgnet.sbs/link/c4QQlAAGhXBfNLAr?sub=3
 time  2026-04-10 05:27:35.818425+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: while scanning for the next token found character '\t' that cannot start any token in "<byte string>", line 10, column 1: 	if (redirected) return; ^ (line: 10)
