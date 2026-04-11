@@ -9,11 +9,13 @@
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  bebcvojv157@gmail.com
-last_checkin  2026-04-11 06:06:34.082181+08:00
+email  zbeefeze448@gmail.com
+last_checkin  2026-04-11 14:41:42.512534+08:00
 name  MG Network
 node_n  11
 sub_info  0B  1.314G  2026-04-13 07:06:33+08:00  (剩余 1.314G 1 day, 17:51:54.004874)
-sub_url  https://az.mgnet.sbs/link/As07xH6hkzzjOP2f?sub=3
-time  2026-04-11 06:06:34.670563+08:00
+sub_url  https://az.mgnet.sbs/link/0AUqvoqnuZENubGQ?sub=3
+time  2026-04-11 14:41:43.104745+08:00
 type  sspanel
+保存base64/clash订阅失败  while scanning for the next token found character '\t' that cannot start any token in "<byte string>", line 10, column 1: 	if (redirected) return; ^ (line: 10)
+保存订阅信息失败  no sub info
