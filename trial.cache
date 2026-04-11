@@ -9,11 +9,13 @@
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  klxtmthom668@gmail.com
-last_checkin  2026-04-11 16:06:48.061678+08:00
+email  fnhlola730@gmail.com
+last_checkin  2026-04-12 00:00:50.452525+08:00
 name  MG Network
 node_n  11
 sub_info  0B  1.302G  2026-04-13 17:06:47+08:00  (剩余 1.302G 1 day, 18:00:47.705614)
-sub_url  https://az.mgnet.sbs/link/MMNjkmW3pyn6iFt6?sub=3
-time  2026-04-11 16:06:48.626354+08:00
+sub_url  https://az.mgnet.sbs/link/NqqAu4kT5g2jcD2f?sub=3
+time  2026-04-12 00:00:50.831035+08:00
 type  sspanel
+保存base64/clash订阅失败  _gen_base64_config: no base64: b'<html>\n<head>\n<title>tsutsu.one</title>\n<script type="text/javascript" src="/js/fingerprint/iife.min.js"></script>\n<script type="text/javascript">\nvar redirect_link = \'http://api.tsutsu.one/sub?target=mixed&config=https://raw.githubusercontent.com/zsokami/ACL4SSR/392c40af74798ca55c98bba900d5ab93de0e1ed1/ACL4SSR_Online_Full_Mannix.ini&url=https%3A//az.mgnet.sbs/link/NqqAu4kT5g2jcD2f%3Fsub%3D3%231775923250.8311582&rename=%24%40%7CTG%E9%A2%91%E9%81%93%40mfbpn%7CMG%20Network&tr_uuid=20260412-0202-14ff-bced-532a8645493c&\';\nlet redirected = false;\n\nfunction redirect(suffix) {\n\tif (redirected) return;\n\tredirected = true;\n\twindow.location.replace(redirect_link + suffix);\n}\n\nconst rdrTimeout = setTimeout(() => redirect(\'fp=-7\'), 300);\n\ntry {\n\tFingerprintJS.load({monitoring: false})\n\t\t.then(fp => fp.get())\n\t\t.then(result => {\n\t\t\tclearTimeout(rdrTimeout);\n\t\t\tredirect(\'fp=\' + result.visitorId);\n\t\t});\n} catch (err) {\n\tredirect(\'fp=-7\');\n}\n\n</script>\n<style> body { background:#101c36 } </style>\n</head>\n<body bgcolor="#ffffff" text="#000000">\n<div style=\'display: none;\'><a href=\'http://api.tsutsu.one/sub?target=mixed&config=https://raw.githubusercontent.com/zsokami/ACL4SSR/392c40af74798ca55c98bba900d5ab93de0e1ed1/ACL4SSR_Online_Full_Mannix.ini&url=https%3A//az.mgnet.sbs/link/NqqAu4kT5g2jcD2f%3Fsub%3D3%231775923250.8311582&rename=%24%40%7CTG%E9%A2%91%E9%81%93%40mfbpn%7CMG%20Network&tr_uuid=20260412-0202-14ff-bced-532a8645493c&fp=-3\'>Click here to enter</a></div>\n<noscript><meta http-equiv="refresh" content="0; URL=http://api.tsutsu.one/sub?target=mixed&config=https://raw.githubusercontent.com/zsokami/ACL4SSR/392c40af74798ca55c98bba900d5ab93de0e1ed1/ACL4SSR_Online_Full_Mannix.ini&url=https%3A//az.mgnet.sbs/link/NqqAu4kT5g2jcD2f%3Fsub%3D3%231775923250.8311582&rename=%24%40%7CTG%E9%A2%91%E9%81%93%40mfbpn%7CMG%20Network&tr_uuid=20260412-0202-14ff-bced-532a8645493c&fp=-5"></noscript>\n</body>\n</html>'
+保存订阅信息失败  no sub info
