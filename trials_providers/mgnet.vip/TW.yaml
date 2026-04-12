@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: ba5e9f52-11b5-3742-98f9-14ee26e88239, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 14cf8a91-2ddd-324a-8a9f-cb2a838a35f8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
