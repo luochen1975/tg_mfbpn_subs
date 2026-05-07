@@ -13,8 +13,7 @@ email  ngunkdxd416@gmail.com
 last_checkin  2026-05-08 02:12:10.750908+08:00
 name  MG Network
 node_n  11
-sub_info  0B  2.327G  2026-05-10 00:53:35+08:00  (剩余 2.327G 1 day, 19:19:39.380682)
+sub_info  0B  2.327G  2026-05-10 00:53:35+08:00  (剩余 2.327G 1 day, 18:13:06.972099)
 sub_url  https://az.mgnet.sbs/link/xiQNibCp59IsoYvF?sub=3
 time  2026-05-07 23:53:35.536582+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 9, column 27: body { font-family: system-ui, sans-serif; margin: ... ^ (line: 9)
