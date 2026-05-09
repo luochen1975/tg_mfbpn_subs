@@ -10,11 +10,10 @@
 auto_invite  F
 buy  pass
 email  bhxvrfij423@gmail.com
-last_checkin  2026-05-09 23:33:09.011646+08:00
+last_checkin  2026-05-10 00:32:53.679649+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.824G  2026-05-12 00:33:08+08:00  (剩余 1.824G 2 days, 0:59:56.668983)
+sub_info  0B  2.701G  2026-05-12 00:33:08+08:00  (剩余 2.701G 2 days, 0:00:07.091986)
 sub_url  https://az.mgnet.sbs/link/evd9IrhUJDGOSaV5?sub=3
 time  2026-05-09 23:33:09.404312+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 9, column 27: body { font-family: system-ui, sans-serif; margin: ... ^ (line: 9)
