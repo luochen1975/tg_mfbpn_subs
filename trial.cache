@@ -13,8 +13,7 @@ email  eejbyyu523@gmail.com
 last_checkin  2026-05-11 00:33:17.364135+08:00
 name  MG Network
 node_n  11
-sub_info  0B  2.508G  2026-05-12 23:06:21+08:00  (剩余 2.508G 1 day, 21:30:54.390075)
+sub_info  0B  2.508G  2026-05-12 23:06:21+08:00  (剩余 2.508G 1 day, 20:29:43.787040)
 sub_url  https://az.mgnet.sbs/link/FQnbidOVroCoDIg6?sub=3
 time  2026-05-10 22:06:21.695052+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 9, column 27: body { font-family: system-ui, sans-serif; margin: ... ^ (line: 9)
