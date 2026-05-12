@@ -9,11 +9,13 @@
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  zovpibov446@gmail.com
-last_checkin  2026-05-12 21:25:11.700718+08:00
+email  odadkzyy12@gmail.com
+last_checkin  2026-05-13 00:05:10.175263+08:00
 name  MG Network
 node_n  11
 sub_info  0B  1.791G  2026-05-14 22:25:11+08:00  (剩余 1.791G 2 days, 0:58:36.633119)
-sub_url  https://az.mgnet.sbs/link/rsJ6KSrALAuF3LlA?sub=3
-time  2026-05-12 21:25:12.287794+08:00
+sub_url  https://az.mgnet.sbs/link/RdmnfKIjgXZAatLN?sub=3
+time  2026-05-13 00:05:10.516034+08:00
 type  sspanel
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 9, column 27: body { font-family: system-ui, sans-serif; margin: ... ^ (line: 9)
+保存订阅信息失败  no sub info
